@@ -2,7 +2,7 @@
 
 <img src="avatar.gif" width="150" />
 
-# 👩‍💻 Hey, I'm Sarra — Full-Stack Engineer
+# Hey, I'm Sarra — Full-Stack Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=I+build+things+for+the+web+%E2%9C%A8;React+%E2%80%A2+Node+%E2%80%A2+TypeScript;UI+that+feels+alive+%F0%9F%8E%A8;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
 
