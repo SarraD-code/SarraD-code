@@ -1,5 +1,3 @@
-<!-- Profile README — SarraD-code -->
-
 <div align="center">
 
 # 👩‍💻 Hey, I'm Sarra — Full-Stack Engineer
