@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="avatar.gif" width=120 />
+<img src="avatar.gif" width="120" />
 
 # 👩‍💻 Hey, I'm Sarra — Full-Stack Engineer
 
